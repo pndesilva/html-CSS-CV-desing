@@ -25,7 +25,7 @@
         text-align: center;
       }
       #section-left .section {
-        margin-top: 40%;
+        margin-top: 50%;
         padding: 1em;
       }
       #section-left .section .logo {
